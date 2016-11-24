@@ -16,6 +16,8 @@
 
 #import <Foundation/Foundation.h>
 
+//TEST STRING 1
+
 @interface NSData (NSHash_AdditionalHashingAlgorithms)
 
 /**
